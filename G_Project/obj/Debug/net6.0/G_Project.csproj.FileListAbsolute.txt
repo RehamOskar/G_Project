@@ -1,0 +1,176 @@
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\G_Project.staticwebassets.runtime.json
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\G_Project.exe
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\G_Project.deps.json
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\G_Project.runtimeconfig.json
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\G_Project.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\ref\G_Project.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\G_Project.pdb
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\obj\Debug\net6.0\G_Project.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\obj\Debug\net6.0\G_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\obj\Debug\net6.0\G_Project.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\obj\Debug\net6.0\G_Project.AssemblyInfo.cs
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\obj\Debug\net6.0\G_Project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\obj\Debug\net6.0\G_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\obj\Debug\net6.0\G_Project.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\obj\Debug\net6.0\G_Project.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\obj\Debug\net6.0\scopedcss\bundle\G_Project.styles.css
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\obj\Debug\net6.0\scopedcss\projectbundle\G_Project.bundle.scp.css
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\obj\Debug\net6.0\G_Project.csproj.CopyComplete
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\obj\Debug\net6.0\G_Project.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\obj\Debug\net6.0\ref\G_Project.dll
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\obj\Debug\net6.0\G_Project.pdb
+C:\Users\DELL\Desktop\سطح المكتب\مشروع التخرج\G_Project\G_Project\obj\Debug\net6.0\G_Project.genruntimeconfig.cache
+C:\G_Project\G_Project\bin\Debug\net6.0\appsettings.Development.json
+C:\G_Project\G_Project\bin\Debug\net6.0\appsettings.json
+C:\G_Project\G_Project\bin\Debug\net6.0\G_Project.staticwebassets.runtime.json
+C:\G_Project\G_Project\bin\Debug\net6.0\G_Project.exe
+C:\G_Project\G_Project\bin\Debug\net6.0\G_Project.deps.json
+C:\G_Project\G_Project\bin\Debug\net6.0\G_Project.runtimeconfig.json
+C:\G_Project\G_Project\bin\Debug\net6.0\G_Project.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\ref\G_Project.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\G_Project.pdb
+C:\G_Project\G_Project\bin\Debug\net6.0\Humanizer.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\G_Project\G_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\G_Project\G_Project\obj\Debug\net6.0\G_Project.csproj.AssemblyReference.cache
+C:\G_Project\G_Project\obj\Debug\net6.0\G_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\G_Project\G_Project\obj\Debug\net6.0\G_Project.AssemblyInfoInputs.cache
+C:\G_Project\G_Project\obj\Debug\net6.0\G_Project.AssemblyInfo.cs
+C:\G_Project\G_Project\obj\Debug\net6.0\G_Project.csproj.CoreCompileInputs.cache
+C:\G_Project\G_Project\obj\Debug\net6.0\G_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\G_Project\G_Project\obj\Debug\net6.0\G_Project.RazorAssemblyInfo.cache
+C:\G_Project\G_Project\obj\Debug\net6.0\G_Project.RazorAssemblyInfo.cs
+C:\G_Project\G_Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\G_Project\G_Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\G_Project\G_Project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\G_Project\G_Project\obj\Debug\net6.0\scopedcss\bundle\G_Project.styles.css
+C:\G_Project\G_Project\obj\Debug\net6.0\scopedcss\projectbundle\G_Project.bundle.scp.css
+C:\G_Project\G_Project\obj\Debug\net6.0\G_Project.csproj.CopyComplete
+C:\G_Project\G_Project\obj\Debug\net6.0\G_Project.dll
+C:\G_Project\G_Project\obj\Debug\net6.0\ref\G_Project.dll
+C:\G_Project\G_Project\obj\Debug\net6.0\G_Project.pdb
+C:\G_Project\G_Project\obj\Debug\net6.0\G_Project.genruntimeconfig.cache
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\appsettings.json
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\G_Project.staticwebassets.runtime.json
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\G_Project.exe
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\G_Project.deps.json
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\G_Project.runtimeconfig.json
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\G_Project.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\ref\G_Project.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\G_Project.pdb
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Humanizer.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\obj\Debug\net6.0\G_Project.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\obj\Debug\net6.0\G_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\obj\Debug\net6.0\G_Project.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\obj\Debug\net6.0\G_Project.AssemblyInfo.cs
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\obj\Debug\net6.0\G_Project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\obj\Debug\net6.0\G_Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\obj\Debug\net6.0\G_Project.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\obj\Debug\net6.0\G_Project.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\obj\Debug\net6.0\scopedcss\bundle\G_Project.styles.css
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\obj\Debug\net6.0\scopedcss\projectbundle\G_Project.bundle.scp.css
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\obj\Debug\net6.0\G_Project.csproj.CopyComplete
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\obj\Debug\net6.0\G_Project.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\obj\Debug\net6.0\ref\G_Project.dll
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\obj\Debug\net6.0\G_Project.pdb
+C:\Users\DELL\Desktop\سطح المكتب\المعدل\G_Project\G_Project\obj\Debug\net6.0\G_Project.genruntimeconfig.cache
